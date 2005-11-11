@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
-<Configuration xmlns="." xmlns:xsi="." xsi:schemaLocation= "." name="CMSConfigur
-ation" version="0">
+<Configuration xmlns="." xmlns:xsi="." xsi:schemaLocation= "." name="CMSConfiguration" version="0">
 <Include name="test">
  <File name="Geometry/CMSCommonData/materials.xml"            url="../../../"/>
  <File name="Geometry/CMSCommonData/rotations.xml"            url="../../../"/>
